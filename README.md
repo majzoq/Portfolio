@@ -60,7 +60,7 @@ Posiadam doświadczenie w tworzeniu:
         <img src="img/ulepszenia.png" width="250" /> <br /> <b>Projekt 1</b>
       </td>
       <td align="center">
-        <img src="img/2.png" width="250" /> <br /> <b>Projekt 2</b>
+        <img src="img/papuga.png" width="250" /> <br /> <b>Projekt 2</b>
       </td>
       <td align="center">
         <img src="img/3.png" width="250" /> <br /> <b>Projekt 3</b>
