@@ -57,7 +57,7 @@ Posiadam doświadczenie w tworzeniu:
   <table>
     <tr>
       <td align="center">
-        <img src="img/1.png" width="250" /> <br /> <b>Projekt 1</b>
+        <img src="img/ulepszenia.png" width="250" /> <br /> <b>Projekt 1</b>
       </td>
       <td align="center">
         <img src="img/2.png" width="250" /> <br /> <b>Projekt 2</b>
