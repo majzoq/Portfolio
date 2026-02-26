@@ -33,7 +33,7 @@
       <!-- RZĄD 1 -->
       <td align="center">
         <!-- PAMIĘTAJ: Zmień '1.png' na nazwę swojego pliku! -->
-        <img src="1.png" width="250" /> <br /> <b>Nazwa Projektu 1</b>
+        <img src="test.png" width="250" /> <br /> <b>Nazwa Projektu 1</b>
       </td>
       <td align="center">
         <img src="2.png" width="250" /> <br /> <b>Nazwa Projektu 2</b>
