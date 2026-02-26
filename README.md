@@ -49,10 +49,7 @@ Tworzę autorskie pluginy i systemy serwerowe do Minecraft.
 <hr/>
 
 <p>
-Jestem developerem specjalizującym się w tworzeniu pluginów do Minecrafta, botów oraz rozbudowanych systemów serwerowych. 
-Projektuję rozwiązania wydajne, skalowalne i dopasowane do indywidualnych wymagań projektu. 
-Dbam o przejrzystą architekturę, wysoką jakość kodu oraz stabilność działania w długim okresie. 
-Stawiam na solidne fundamenty techniczne oraz rozwiązania, które można bez problemu rozwijać wraz z rosnącymi potrzebami.
+Programuję pluginy do Minecrafta, boty i backend dla serwerów. Lubię pisać czysty kod, w którym łatwo się potem połapać – dzięki temu projekty można bez problemu rozwijać w przyszłości. Nie chodzi mi tylko o to, żeby coś działało „na już”, ale żeby system był stabilny i nie sypał błędami przy większej liczbie graczy. Robię rzeczy tak, żeby po prostu dobrze działały
 </p>
 
 <p><b>Posiadam doświadczenie w tworzeniu:</b></p>
