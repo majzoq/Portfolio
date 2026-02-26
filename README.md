@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=majzoq&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="licznik odwiedzin" />
+</p>
+
   <!-- TYTUŁ -->
   <h1>Cześć, jestem Majzoq! 👋</h1>
   <h3>Minecraft Plugin Developer</h3>
