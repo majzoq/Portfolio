@@ -6,7 +6,7 @@
 </p>
 
 <!-- TYTUŁ -->
-<h1>Cześć, jestem Majzoq! 👋</h1>
+<h1>Cześć, jestem Majzoq👋</h1>
 <h3>Minecraft Plugin Developer</h3>
 
 <br/>
@@ -63,7 +63,7 @@ Programuję pluginy do Minecrafta, boty i backend dla serwerów. Lubię pisać c
 <br/>
 
 <!-- PROJEKTY -->
-<h2>🚀 Moje Projekty</h2>
+<h2> Moje Projekty</h2>
 <hr/>
 
 <div align="center">
