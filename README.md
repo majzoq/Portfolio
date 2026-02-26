@@ -58,21 +58,4 @@ Posiadam doświadczenie w tworzeniu:
       </td>
       <td align="center">
         <img src="img/papuga.png" width="250" /> <br /> <b>Projekt 2</b>
-      </td>
-      <td align="center">
-        <img src="img/3.png" width="250" /> <br /> <b>Projekt 3</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="img/4.png" width="250" /> <br /> <b>Projekt 4</b>
-      </td>
-      <td align="center">
-        <img src="img/5.png" width="250" /> <br /> <b>Projekt 5</b>
-      </td>
-      <td align="center">
-        <img src="img/6.png" width="250" /> <br /> <b>Projekt 6</b>
-      </td>
-    </tr>
-  </table>
-</div>
+
