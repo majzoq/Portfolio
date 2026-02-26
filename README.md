@@ -80,25 +80,3 @@ Stawiam na solidne fundamenty techniczne oraz rozwiązania, które można bez pr
       <td align="center">
         <img src="img/papuga.png" width="250" /><br/>
         <b>Papuga</b>
-      </td>
-      <td align="center">
-        <img src="img/projekt3.png" width="250" /><br/>
-        <b>Projekt 3</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="img/projekt4.png" width="250" /><br/>
-        <b>Projekt 4</b>
-      </td>
-      <td align="center">
-        <img src="img/projekt5.png" width="250" /><br/>
-        <b>Projekt 5</b>
-      </td>
-      <td align="center">
-        <img src="img/projekt6.png" width="250" /><br/>
-        <b>Projekt 6</b>
-      </td>
-    </tr>
-  </table>
-</div>
