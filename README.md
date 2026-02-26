@@ -33,16 +33,13 @@
 <hr />
 
 <p>
-Jestem developerem specjalizującym się w tworzeniu zaawansowanych pluginów do Minecraft (PaperMC).
-Skupiam się na wydajności, czystej architekturze i stabilności systemów.
+Jestem developerem specjalizującym się w tworzeniu pluginów do Minecrafta, botów oraz rozbudowanych systemów serwerowych. Projektuję rozwiązania wydajne, skalowalne i dopasowane do indywidualnych wymagań projektu. Dbam o przejrzystą architekturę, wysoką jakość kodu oraz stabilność działania w długim okresie. W pracy stawiam na solidne fundamenty techniczne, dobrą organizację projektu oraz rozwiązania, które można bez problemu rozwijać wraz z rosnącymi potrzebami.
   
 Posiadam doświadczenie w tworzeniu:
 </p>
 
 <ul>
-  <li>✔ Autorskich systemów GUI</li>
   <li>✔ Rozbudowanych systemów ekonomii</li>
-  <li>✔ Systemów danych (MySQL)</li>
   <li>✔ Botów Discord</li>
   <li>✔ Integracji między serwerami</li>
 </ul>
