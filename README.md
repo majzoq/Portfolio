@@ -45,7 +45,7 @@ Tworzę autorskie pluginy i systemy serwerowe do Minecraft.
 <br/><br/>
 
 <!-- O MNIE -->
-<h2>👤 O mnie</h2>
+<h2> O mnie</h2>
 <hr/>
 
 <p>
@@ -58,10 +58,9 @@ Stawiam na solidne fundamenty techniczne oraz rozwiązania, które można bez pr
 <p><b>Posiadam doświadczenie w tworzeniu:</b></p>
 
 <ul>
-  <li>✔ Rozbudowanych systemów ekonomii</li>
-  <li>✔ Botów Discord</li>
-  <li>✔ Integracji między serwerami</li>
-  <li>✔ Systemów bazodanowych (MySQL)</li>
+  <li> Rozbudowanych systemów ekonomii</li>
+  <li> Botów Discord</li>
+  <li> Integracji między serwerami</li>
 </ul>
 
 <br/>
